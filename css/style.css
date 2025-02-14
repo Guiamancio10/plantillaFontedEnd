@@ -1,0 +1,44 @@
+/* fuentes */
+
+@font-face{
+    font-family: roboto;
+    src: url('../fonts/roboto-Regular.woff') format(woff)
+}
+
+:root{
+    --color-primario: #ff0000;
+    --color-secundario: #0000ff;    
+
+}
+
+
+/* general */
+html{
+
+}
+
+body{
+
+}
+
+.header{
+
+}
+.header_logo{
+
+}
+.header_imagen{
+
+}
+.header_menu{
+
+}
+.main{
+
+}
+.footer{
+
+}
+.footer_copy{
+    
+}
